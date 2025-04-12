@@ -1,0 +1,17 @@
+{
+    "loginPage": {
+        "usernameField": "#username",
+        "passwordField": "#password",
+        "loginButton": "#loginButton"
+    },
+    "homePage": {
+        "searchBar": "#searchInput",
+        "searchButton": "#searchButton",
+        "profileIcon": "#profileIcon"
+    },
+    "productPage": {
+        "addToCartButton": ".add-to-cart",
+        "productTitle": ".product-title",
+        "priceLabel": ".price-label"
+    }
+}
