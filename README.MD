@@ -69,4 +69,4 @@ public class LoginTest {
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
 # Support
-If you encounter any issues, please open an issue in the repository or contact the maintainer. ```
+If you encounter any issues, please open an issue in the repository or contact the maintainer.
