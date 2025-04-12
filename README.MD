@@ -1,4 +1,4 @@
-# Selenium Java Maven Template
+# Easy Selenium Java Maven Template
 
 This project is a template for creating Selenium-based test automation frameworks using Java and Maven. It provides a pre-configured setup with essential dependencies and a project structure to help you get started quickly.
 
